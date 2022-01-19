@@ -30,6 +30,11 @@ h3 {
 	text-align: center;
 }
 
+.btn {
+	background-color: purple;
+	color: #fff;
+}
+
 footer {
 	position: absolute;
 	bottom: 0;
